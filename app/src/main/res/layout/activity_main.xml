@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.example.youssefalaa.tour_guide.MainActivity">
+
+
+        <TextView
+            android:id="@+id/unis"
+            style="@style/CategoryTheme"
+            android:background="@color/category_universities"
+            android:text="@string/universities" />
+
+        <TextView
+            android:id="@+id/workspaces"
+            style="@style/CategoryTheme"
+            android:background="@color/category_workSpaces"
+            android:text="@string/wokSpaces" />
+
+        <TextView
+            android:id="@+id/restautants"
+            style="@style/CategoryTheme"
+            android:background="@color/category_restaurants"
+            android:text="@string/restaurants" />
+
+        <TextView
+            android:id="@+id/hotels"
+            style="@style/CategoryTheme"
+            android:background="@color/category_hotels"
+            android:text="@string/hotels" />
+
+        <TextView
+            android:id="@+id/malls"
+            style="@style/CategoryTheme"
+            android:background="@color/category_malls"
+            android:text="@string/malls" />
+    </LinearLayout>
+</ScrollView>

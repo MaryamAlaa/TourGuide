@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="universities">Universities</string>
+    <string name="wokSpaces">Work spaces</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="malls">Malls</string>
+    <!--Names of hotels-->
+    <string name="fairemont">Firmont Hotel</string>
+    <string name="El_Nabila">El_Nabila</string>
+    <string name="Helton">Ramses Helton</string>
+    <string name="Four_Season">Four Seasom</string>
+    <!--Names of Unis-->
+    <string name="Cairo">Cairo University</string>
+    <string name="Helwan">Helwan University</string>
+    <string name="Ain_shams">Ain Shams University</string>
+    <string name="Ales">Alexanderia University</string>
+    <string name="Fayoum">Fayoum University</string>
+    <string name="Nile">Nile University</string>
+    <string name="Monofia">Monufia University</string>
+    <!--Names of Restaurants-->
+    <string name="MAC">MAC</string>
+    <string name="Pizza">Pizza Hut</string>
+    <string name="Buffalo">Buffalo</string>
+    <string name="Moamen">Moamen</string>
+    <string name="Spectra">Spectra</string>
+    <!--Names of Malls-->
+    <string name="Mall_Arbia">Mall Of Arabia</string>
+    <string name="Mall_Egy">Mall Of Egypt</string>
+    <string name="festival">Cairo Festival Mall</string>
+    <string name="Arkedia">Arkidea Mall</string>
+    <!--Names of workspaces-->
+
+    <string name="Ebda3">Ebda3</string>
+    <string name="ice">ICE Cairo</string>
+    <string name="Creativo">Creativo</string>
+</resources>
